@@ -1,0 +1,41 @@
+#carpetas#
+*.vs
+
+#Compile source#
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.sh
+*.apk
+
+#  Packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+#logs and databases #
+*.log
+*.sql
+*.sqlite
+*.lock
+
+#Os generate files#
+*.Ds_Store
+*.DS_Storage?
+*._*
+*.Spotlight-v100
+*.Trashes
+*.ehthumbs.db
+*.Thumbs.db
+
+
+
+
